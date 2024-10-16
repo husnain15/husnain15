@@ -9,7 +9,7 @@ Software Engineer
 </h2>
 
 <div align="center">
- <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+ <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
@@ -206,4 +206,7 @@ I thrive in collaborative environments and am committed to delivering high-quali
     <p><strong>Technologies:</strong> ReactJS, TypeScript, MongoDB, Python, NodeJS, Google Cloud</p>
   </div>
 
+</div>
+<div align="center">
+ <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 </div>
