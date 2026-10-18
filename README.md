@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1222,100:1F6FEB&height=190&section=header&text=Husnain%20Khalid&fontSize=52&fontColor=EEF3FA&desc=Senior%20Frontend%20Engineer&descAlignY=66&descSize=20&animation=fadeIn" alt="Husnain Khalid, Senior Frontend Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070E1C,45:1F6FEB,100:7C3AED&height=260&section=header&text=Husnain%20Khalid&fontSize=70&fontColor=FFFFFF&fontAlignY=38&stroke=4DA3FF&strokeWidth=1&animation=twinkling&desc=Senior%20Frontend%20Engineer%20%E2%80%A2%20Angular%20%E2%80%A2%20React%20%E2%80%A2%20AI%20Integration&descSize=20&descAlignY=58&descAlign=50" alt="Husnain Khalid, Senior Frontend Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,11 @@
   <a href="https://husnain-khalid-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A1222?style=for-the-badge&logo=netlify&logoColor=4DA3FF" alt="Portfolio"/></a>
   <a href="mailto:husnainkhalid652@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open_to-Remote_%26_Relocation-3DDC97?style=for-the-badge" alt="Open to remote and relocation"/>
-  <img src="https://komarev.com/ghpvc/?username=husnain15&color=4DA3FF&style=for-the-badge&label=Profile+views" alt="Profile views"/>
 </p>
+
+<!-- Optional profile view counter. Uncomment if you want one:
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=husnain15.husnain15&left_color=0A1222&right_color=1F6FEB&left_text=Profile%20views" alt="Profile views"/></p>
+-->
 
 ---
 
@@ -77,13 +80,56 @@ const husnain = {
 
 ## 🚀 Selected client work
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🤖 [Asecure Cloud](https://asecure.cloud/) | Cloud-management platform with an AI assistant | React, Node.js, MongoDB, AWS Lambda, Elasticsearch, ChatGPT API |
-| 🧠 [Moonhub](https://www.moonhub.ai/) | Recruitment platform using conversational AI | React, TypeScript, Node.js, MongoDB, Python, Google Cloud |
-| 🍔 [Perkss](https://perkss.co.uk/) | Food-ordering and E-POS platform with Stripe and PayPal checkout | Angular, Angular Material, Bootstrap |
-| 🗺️ [MapPort](https://app.mapport.com/login) | Subscription map platform with footprint, ownership, and parcel layers | Angular, Angular Material, OpenLayers |
-| 🛒 [Dimerc](https://multivendor.dimerc.cl/) | Multi-vendor marketplace | React, Node.js, MongoDB, Serverless Framework, Elasticsearch |
+<p align="center"><i>Production platforms I've contributed to across client engagements</i></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 <a href="https://asecure.cloud/">Asecure Cloud</a></h3>
+<img src="https://img.shields.io/badge/AI--Powered-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI-Powered"/>
+<p>Cloud-management platform with a built-in AI assistant that makes cloud operations simpler to run.</p>
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/> <img src="https://img.shields.io/badge/ChatGPT_API-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT API"/></p>
+<p><a href="https://asecure.cloud/"><b>View live ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://www.moonhub.ai/">Moonhub</a></h3>
+<img src="https://img.shields.io/badge/AI--Powered-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI-Powered"/>
+<p>Recruitment platform that uses conversational AI to analyze market data and sharpen hiring strategy for startups and enterprises.</p>
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/></p>
+<p><a href="https://www.moonhub.ai/"><b>View live ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍔 <a href="https://perkss.co.uk/">Perkss</a></h3>
+
+<p>Online food-ordering and E-POS platform with customer and admin apps, guest checkout, and custom order management.</p>
+<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white" alt="Angular Material"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/></p>
+<p><a href="https://perkss.co.uk/"><b>View live ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ <a href="https://app.mapport.com/login">MapPort</a></h3>
+
+<p>Subscription mapping platform with layered building footprints, ownership information, and parcel data.</p>
+<p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white" alt="Angular Material"/> <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square" alt="OpenLayers"/></p>
+<p><a href="https://app.mapport.com/login"><b>View live ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://multivendor.dimerc.cl/">Dimerc</a></h3>
+
+<p>Multi-vendor marketplace where many sellers list and sell products from one central storefront.</p>
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/></p>
+<p><a href="https://multivendor.dimerc.cl/"><b>View live ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🤝 Your project next?</h3>
+<p>I'm open to <b>Senior Frontend, Angular, and Full Stack</b> roles, remote or with relocation. I bring performance work, micro-frontend architecture, and real-time dashboards to production teams.</p>
+<p><a href="https://www.linkedin.com/in/husnainkhalid15/"><img src="https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn"/></a></p>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub stats
 
@@ -132,5 +178,9 @@ I'm open to **Senior Frontend, Angular, and Full Stack Engineer** roles, remote 
 Fastest way to reach me: [email](mailto:husnainkhalid652@gmail.com) or [LinkedIn](https://www.linkedin.com/in/husnainkhalid15/).
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A1222&height=110&section=footer" alt="" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8FA3C0&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Star+a+repo+if+something+helped+you+%E2%AD%90;git+commit+-m+%22see+you+soon%22" alt="Thanks for visiting"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1F6FEB,100:070E1C&height=150&section=footer&reversal=true&text=Let%27s%20build%20something%20fast&fontSize=26&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn" alt="" width="100%"/>
 </p>
