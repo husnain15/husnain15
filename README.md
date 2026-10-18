@@ -1,212 +1,136 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Husnain Khalid</h2>
-<h2 align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> -->
-Senior Software Engineer
-<!-- <a href="https://parth-johri.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-</a> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1222,100:1F6FEB&height=190&section=header&text=Husnain%20Khalid&fontSize=52&fontColor=EEF3FA&desc=Senior%20Frontend%20Engineer&descAlignY=66&descSize=20&animation=fadeIn" alt="Husnain Khalid, Senior Frontend Engineer" width="100%"/>
+</p>
 
-</h2>
+<p align="center">
+  <a href="https://husnain-khalid-dev.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4DA3FF&center=true&vCenter=true&width=620&lines=Senior+Frontend+Engineer+%40+ibex;Angular+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;Micro-frontends+that+teams+ship+independently;Making+web+apps+fast+(LCP+4.2s+%E2%86%92+1.8s);Bringing+AI+features+into+real+products" alt="Typing intro"/>
+  </a>
+</p>
 
-<div align="center">
- <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/husnainkhalid15/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://husnain-khalid-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A1222?style=for-the-badge&logo=netlify&logoColor=4DA3FF" alt="Portfolio"/></a>
+  <a href="mailto:husnainkhalid652@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open_to-Remote_%26_Relocation-3DDC97?style=for-the-badge" alt="Open to remote and relocation"/>
+  <img src="https://komarev.com/ghpvc/?username=husnain15&color=4DA3FF&style=for-the-badge&label=Profile+views" alt="Profile views"/>
+</p>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+---
 
-Hello! I'm a passionate senior software engineer with over 4 years of experience in developing robust and scalable applications. My expertise spans both frontend and backend technologies, allowing me to build seamless user experiences and efficient server-side solutions.
+## 👨‍💻 `whoami`
 
-## Technical Skills
+```ts
+const husnain = {
+  role:        "Senior Software Engineer @ ibex",
+  location:    "Lahore, Pakistan 🇵🇰",
+  experience:  "5+ years",
+  focus:       ["Angular", "React", "Micro-frontends", "Real-time dashboards", "Web performance"],
+  backend:     ["Node.js", "Express", "AWS Lambda", "DynamoDB"],
+  exploring:   ["LLM APIs", "RAG", "AI features in production web apps"],
+  philosophy:  "Build frontend systems that hold up in production, not just in a demo.",
+  openTo:      ["Remote", "Relocation"],
+};
+```
 
-### Frontend
-- **Languages & Frameworks:** HTML5, CSS, SCSS, JavaScript
-- **Libraries & Frameworks:** React.js, Angular.js, Material UI, Bootstrap
+<!-- Uncomment once you've started the project:
+> 🔭 **Currently building:** an AI support assistant with RAG, built with Angular and Node.js.
+-->
 
-### Backend
-- **Technologies:** Node.js, Express.js, C#, .NET
+## 📜 `git log --oneline career`
 
-### Cloud/Serverless
-- **Platforms:** AWS (Lambda, DynamoDB, API Gateway, Cognito, CloudFront, S3, CloudWatch)
+```diff
++ a1f9e3c (HEAD -> main) feat(ibex): promoted to Senior Software Engineer          [Feb 2026]
++ 7c2d410 perf: LCP 4.2s → 1.8s via code-splitting, lazy loading, CDN edge caching
++ 3b8e112 refactor: micro-frontends with Native Federation, 4 teams deploy independently
++ 9d01ab7 fix(ops): incident MTTR 45m → 12m with Sentry alerting + runbooks
++ 4c7a2e9 feat: real-time dashboards streaming 10K+ WebSocket events/min
++ 2e5b8d1 test: frontend coverage 34% → 78% with Jest + Cypress
++ 5e7c2f0 feat(ibex): joined as Software Engineer                                  [Nov 2024]
++ 8a3f6b2 feat(icommunix): serverless backend, 1M+ requests/month at 99.9% uptime
++ 6d9e1c4 ci: deploy time 45m → 8m with CodePipeline + CloudFormation
++ 1b4c7d8 feat(icommunix): Angular agent dashboards for 500+ call-center agents  [May 2023]
++ 0f2a9e3 perf(scaylar): API response time −40% with MongoDB indexing + Redis     [Nov 2022]
++ c8d1e5f feat(itcurves): responsive React UIs with Tailwind + MUI                [Jan 2022]
++ 0000001 init: freelance web developer, 12+ client sites shipped                 [Jul 2021]
+```
 
-### Databases
-- **Systems:** MongoDB, SQL, MySQL, PostgreSQL, DynamoDB
+## 🛠️ Tech stack
 
-### Other Skills
-- Agile Project Management (JIRA)
-- Version Control (Git, GitHub, Bitbucket)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,materialui,html,css&theme=dark" alt="Frontend stack"/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,aws,jest,git,github&theme=dark" alt="Backend and tooling stack"/>
+</p>
 
-I thrive in collaborative environments and am committed to delivering high-quality code and solutions. I’m always eager to learn new technologies and improve my skills. Let's connect and explore opportunities to work together!
+<p align="center">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square" alt="PrimeNG"/>
+  <img src="https://img.shields.io/badge/Micro--frontends-Native_%26_Module_Federation-0A1222?style=flat-square" alt="Micro-frontends"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/WebSockets-0A1222?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+</p>
 
+## 🚀 Selected client work
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🤖 [Asecure Cloud](https://asecure.cloud/) | Cloud-management platform with an AI assistant | React, Node.js, MongoDB, AWS Lambda, Elasticsearch, ChatGPT API |
+| 🧠 [Moonhub](https://www.moonhub.ai/) | Recruitment platform using conversational AI | React, TypeScript, Node.js, MongoDB, Python, Google Cloud |
+| 🍔 [Perkss](https://perkss.co.uk/) | Food-ordering and E-POS platform with Stripe and PayPal checkout | Angular, Angular Material, Bootstrap |
+| 🗺️ [MapPort](https://app.mapport.com/login) | Subscription map platform with footprint, ownership, and parcel layers | Angular, Angular Material, OpenLayers |
+| 🛒 [Dimerc](https://multivendor.dimerc.cl/) | Multi-vendor marketplace | React, Node.js, MongoDB, Serverless Framework, Elasticsearch |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=husnain15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnain15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=husnain15&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=husnain15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husnain15/husnain15/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husnain15/husnain15/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/husnain15/husnain15/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+## 😄 Debug break
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
- 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
-
-  <span><img src="https://img.shields.io/badge/BSCS-August,2021-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-3.28/4-EFEEE9?style=for-the-badge"></span>
-  
-</details>
- <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/>Work Experience</h2></summary>
-
-### Icommunix - Smarter Engagement, Lahore, PK  
-**Full Stack Software Engineer (Hybrid Position)**  
-*May 2023 – Present*  
-- Developed responsive web applications using Angular, React, Bootstrap, and TypeScript, integrated with AWS services like DynamoDB, Lambda, and Connect for serverless applications.
-- Delivered user stories efficiently in an Agile method, building real-time apps and integrating third-party APIs.
-- Proposed and implemented system improvements by staying updated with emerging technologies.
-
-### Scaylar Technology, Lahore, PK  
-**Associate Software Engineer**  
-*Oct 2022 – Apr 2023*  
-- Led cross-functional teams to resolve software defects and manage daily performance of the portal tool.
-- Developed intuitive UIs using React and Redux, and optimized website performance through RESTful APIs and MongoDB.
-- Collaborated with QA engineers and product managers for seamless continuous delivery.
-
-### IT Curves Software House, Lahore, PK  
-**Front End Developer**  
-*Jan 2022 – Sep 2022*  
-- Crafted engaging, user-friendly websites by innovating design strategies and optimizing performance.
-- Coordinated cross-functional teams to integrate server-side components and conducted rigorous testing.
-
-### Freelance Software Engineer (JavaScript Stack), Various Clients  
-**Specializing in Software Engineering**  
-*Apr 2021 – Dec 2021*  
-- **Full-Stack Development:** Created and maintained responsive web applications using JavaScript technologies, ensuring optimal user experiences.
-- **API Design & Implementation:** Developed and integrated RESTful APIs with Express.js, MongoDB, and front-end frameworks like Angular or React.
-- **Front-End & Back-End Engineering:** Built interactive UIs with Angular and React; engineered robust server-side logic with Node.js and Express.js.
-- **Performance Optimization:** Enhanced application performance through code refinement, database indexing, and caching strategies.
-- **Project Management & Client Collaboration:** Led project scoping, planning, and execution while working closely with clients to meet their requirements and deadlines.
-
-I thrive in collaborative environments and am committed to delivering high-quality code and solutions. I’m always eager to learn new technologies and improve my skills. Let's connect and explore opportunities to work together!
-</details>
-  
-<details>
-  <summary><h4><img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-
-  - **LeetCode:** A platform where I practice and improve my algorithm and data structure skills through coding challenges.
-  - **Codeforces:** An online competitive programming platform where I participate in contests to enhance my problem-solving abilities.
-  - **GeeksforGeeks:** A resource for learning various programming concepts and solving coding problems.
-  - **CodeChef:** Another competitive programming site where I engage in contests and challenges to sharpen my coding skills.
-  - **HackerRank:** A platform that allows me to solve coding challenges and participate in coding competitions to boost my proficiency.
-
-</details>
-
-
-<details>
-  <summary><h4><img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-
-  #### Languages
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-  #### Libraries/Frameworks
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Angular](https://img.shields.io/badge/angular-%E03C31.svg?style=for-the-badge&logo=angular&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=materialui&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-
-  #### Databases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-  #### Cloud/Serverless
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-  ![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF4F00.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%234B9CD3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-  #### Tools
-  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-  ![JIRA](https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
+  <summary><b>🎲 Click for a random dev joke</b></summary>
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke"/>
+  </p>
 </details>
 
 <details>
-  <summary><h4><img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  #### <a href="https://www.invy.com/">E-commerce Platform</a>
-  <span><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
-  - Developed a scalable e-commerce platform that offers users an intuitive shopping experience, integrating AWS Lambda and API Gateway for serverless functionality.
-  - **Impact:** Improved application responsiveness and scalability, enabling seamless user interactions.
-
-  #### <a href="https://www.rgrp.co/">Real-Time Data Processing System</a>
-  <span><img src="https://img.shields.io/badge/Angular-%E03C31.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
-  - Engineered a real-time data processing system using Angular and Express.js, deployed on AWS with DynamoDB for efficient data management.
-  - **Impact:** Enhanced data retrieval speeds and improved the user experience with real-time updates.
-
-  #### <a href="https://app.mapport.com/login">MapPort</a>
-  <span><img src="https://img.shields.io/badge/OpenLayer-%234B9CD3.svg?style=for-the-badge&logo=OpenLayer&logoColor=white"></span>
-  - Developed an online platform where users can view various layers of maps based on OpenLayer technology. Users can subscribe to different map features, including building footprints, owner information, and parcel data.
-  - **Impact:** Provided users with detailed insights into geographical data, improving accessibility and usability.
-
-</details>
+  <summary><b>💬 Click for a random dev quote</b></summary>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+  </p>
 </details>
 
+## 🤝 Let's connect
 
-### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif" width="37"/> Contact Me
- <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:husnainkhalid652@gmail.com">
-     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif" width="100"/>
- </a>
+I'm open to **Senior Frontend, Angular, and Full Stack Engineer** roles, remote or with relocation.
+Fastest way to reach me: [email](mailto:husnainkhalid652@gmail.com) or [LinkedIn](https://www.linkedin.com/in/husnainkhalid15/).
 
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  
-  </div>
-</details>
-
-<div align="center">
-  <h2>🛠️ My Projects</h2>
-  
-  <p>Explore some of the projects I've developed:</p>
-  
-  <div>
-    <h3><a href="https://perkss.co.uk/">Perkss</a> (Online Food Ordering Platform)</h3>
-    <p>This project is a dynamic E-POS platform with two interfaces: customer and admin. Customers can place orders via user accounts or guest checkout, with payment options like Stripe and PayPal. Admins can manage products, view orders, and create custom orders.</p>
-    <p><strong>Technologies:</strong> Angular v12, HTML, CSS, Bootstrap, Angular Material</p>
-  </div>
-
-  <div>
-    <h3><a href="https://app.mapport.com/login">MapPort</a> (Real-Time Map)</h3>
-    <p>An online platform where users can view different layers of maps based on OpenLayer, allowing subscription to various map properties like building footprints and owner info.</p>
-    <p><strong>Technologies:</strong> Angular v12, HTML, CSS, Angular Material, OpenLayer</p>
-  </div>
-
-  <div>
-    <h3><a href="https://multivendor.dimerc.cl/">Dimerc</a> (Multi-Vendor Marketplace)</h3>
-    <p>A dynamic multi-vendor online marketplace that allows various vendors to sell products in one centralized location, enhancing vendor-customer transactions.</p>
-    <p><strong>Technologies:</strong> JavaScript, ReactJS, NodeJS, MongoDB, Serverless Framework, Kibana, Elastic Search</p>
-  </div>
-
-  <div>
-    <h3><a href="https://asecure.cloud/">Asecure Cloud</a> (AI-Powered Cloud Management)</h3>
-    <p>This platform introduces an AI assistant to simplify cloud management, utilizing a user-friendly interface and advanced backend services.</p>
-    <p><strong>Technologies:</strong> ReactJS, NodeJS, MongoDB, Kibana, Mocha, AWS Lambda, Amazon Pay, Elastic Search, ChatGPT AI</p>
-  </div>
-
-  <div>
-    <h3><a href="https://www.moonhub.ai/">Moonhub</a> (AI-Powered Recruitment)</h3>
-    <p>A recruitment platform utilizing advanced conversational AI to analyze market data and improve hiring strategies for startups and enterprises.</p>
-    <p><strong>Technologies:</strong> ReactJS, TypeScript, MongoDB, Python, NodeJS, Google Cloud</p>
-  </div>
-
-</div>
-<div align="center">
- <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A1222&height=110&section=footer" alt="" width="100%"/>
+</p>
